@@ -1,0 +1,135 @@
+{
+  "calcas": [
+    {
+      "marca": "Marca 1",
+      "modelo": "Calça exemplo 1",
+      "tamanho": "P",
+      "cor": "Preta",
+      "foto": "https://strikeoutlet.com.br/wp-content/uploads/2019/04/Calça-Preta-masculina.JPG-500x750.jpg"
+    },
+    {
+      "marca": "Marca 2",
+      "modelo": "Calça exemplo 2",
+      "tamanho": "M",
+      "cor": "Preta",
+      "foto": "https://strikeoutlet.com.br/wp-content/uploads/2019/04/Calça-Preta-masculina.JPG-500x750.jpg"
+    },
+    {
+      "marca": "Marca 3",
+      "modelo": "Calça exemplo 3",
+      "tamanho": "G",
+      "cor": "Preta",
+      "foto": "https://strikeoutlet.com.br/wp-content/uploads/2019/04/Calça-Preta-masculina.JPG-500x750.jpg"
+    },
+    {
+      "marca": "Marca 4",
+      "modelo": "Calça exemplo 4",
+      "tamanho": "P",
+      "cor": "Preta",
+      "foto": "https://strikeoutlet.com.br/wp-content/uploads/2019/04/Calça-Preta-masculina.JPG-500x750.jpg"
+    },
+    {
+      "marca": "Marca 5",
+      "modelo": "Calça exemplo 5",
+      "tamanho": "M",
+      "cor": "Preta",
+      "foto": "https://strikeoutlet.com.br/wp-content/uploads/2019/04/Calça-Preta-masculina.JPG-500x750.jpg"
+    },
+    {
+      "marca": "Marca 6",
+      "modelo": "Calça exemplo 6",
+      "tamanho": "G",
+      "cor": "Preta",
+      "foto": "https://strikeoutlet.com.br/wp-content/uploads/2019/04/Calça-Preta-masculina.JPG-500x750.jpg"
+    }
+  ],
+
+  "blusas": [
+    {
+      "marca": "Marca 1",
+      "modelo": "Blusa exemplo 1",
+      "tamanho": "P",
+      "cor": "Vermelha",
+      "foto": "https://image.shutterstock.com/image-photo/red-tshirt-clothes-on-isolated-600w-618080519.jpg"
+    },
+    {
+      "marca": "Marca 2",
+      "modelo": "Blusa exemplo 2",
+      "tamanho": "M",
+      "cor": "Vermelha",
+      "foto": "https://image.shutterstock.com/image-photo/red-tshirt-clothes-on-isolated-600w-618080519.jpg"
+    },
+    {
+      "marca": "Marca 3",
+      "modelo": "Blusa exemplo 3",
+      "tamanho": "G",
+      "cor": "Vermelha",
+      "foto": "https://image.shutterstock.com/image-photo/red-tshirt-clothes-on-isolated-600w-618080519.jpg"
+    },
+    {
+      "marca": "Marca 4",
+      "modelo": "Blusa exemplo 4",
+      "tamanho": "P",
+      "cor": "Vermelha",
+      "foto": "https://image.shutterstock.com/image-photo/red-tshirt-clothes-on-isolated-600w-618080519.jpg"
+    },
+    {
+      "marca": "Marca 5",
+      "modelo": "Blusa exemplo 5",
+      "tamanho": "M",
+      "cor": "Vermelha",
+      "foto": "https://image.shutterstock.com/image-photo/red-tshirt-clothes-on-isolated-600w-618080519.jpg"
+    },
+    {
+      "marca": "Marca 6",
+      "modelo": "Blusa exemplo 6",
+      "tamanho": "G",
+      "cor": "Vermelha",
+      "foto": "https://image.shutterstock.com/image-photo/red-tshirt-clothes-on-isolated-600w-618080519.jpg"
+    }
+  ],
+  "chapeus": [
+    {
+      "marca": "Marca 1",
+      "modelo": "Chapéu exemplo 1",
+      "tamanho": "P",
+      "cor": "Amarelo",
+      "foto": "https://thumbs.dreamstime.com/z/chapéu-amarelo-do-verão-no-fundo-branco-objeto-da-praia-118218034.jpg"
+    },
+    {
+      "marca": "Marca 2",
+      "modelo": "Chapéu exemplo 2",
+      "tamanho": "M",
+      "cor": "Amarelo",
+      "foto": "https://thumbs.dreamstime.com/z/chapéu-amarelo-do-verão-no-fundo-branco-objeto-da-praia-118218034.jpg"
+    },
+    {
+      "marca": "Marca 3",
+      "modelo": "Chapéu exemplo 3",
+      "tamanho": "G",
+      "cor": "Amarelo",
+      "foto": "https://thumbs.dreamstime.com/z/chapéu-amarelo-do-verão-no-fundo-branco-objeto-da-praia-118218034.jpg"
+    },
+    {
+      "marca": "Marca 4",
+      "modelo": "Chapéu exemplo 4",
+      "tamanho": "P",
+      "cor": "Amarelo",
+      "foto": "https://thumbs.dreamstime.com/z/chapéu-amarelo-do-verão-no-fundo-branco-objeto-da-praia-118218034.jpg"
+    },
+    {
+      "marca": "Marca 5",
+      "modelo": "Chapéu exemplo 5",
+      "tamanho": "M",
+      "cor": "Amarelo",
+      "foto": "https://thumbs.dreamstime.com/z/chapéu-amarelo-do-verão-no-fundo-branco-objeto-da-praia-118218034.jpg"
+    },
+    {
+      "marca": "Marca 6",
+      "modelo": "Chapéu exemplo 6",
+      "tamanho": "G",
+      "cor": "Amarelo",
+      "foto": "https://thumbs.dreamstime.com/z/chapéu-amarelo-do-verão-no-fundo-branco-objeto-da-praia-118218034.jpg"
+    }
+  ]
+}

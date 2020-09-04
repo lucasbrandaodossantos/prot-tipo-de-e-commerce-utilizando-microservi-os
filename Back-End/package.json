@@ -1,0 +1,19 @@
+{
+  "name": "backend-api-e-commerce",
+  "version": "1.0.0",
+  "description": "Package contendo a parte do Back-End do e-commerce, aqui teremos a API desenhada sem a utilizacao de express, somente funcoes lambda",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbrandaodossantos/prot-tipo-de-e-commerce-utilizando-microservi-os.git"
+  },
+  "author": "Lucas Brandão dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasbrandaodossantos/prot-tipo-de-e-commerce-utilizando-microservi-os/issues"
+  },
+  "homepage": "https://github.com/lucasbrandaodossantos/prot-tipo-de-e-commerce-utilizando-microservi-os#readme"
+}
